@@ -6,5 +6,9 @@
     "eslint": ">= 7.15"
   },
   "author": "chooks22 <chooksdev@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Choooks22/eslint-config"
+  },
   "license": "MIT"
 }
