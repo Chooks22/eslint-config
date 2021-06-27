@@ -1,5 +1,7 @@
 # @chookslint/eslint-config
 
+ESLint config for modern JavaScript projects.
+
 [![npm](https://img.shields.io/npm/dm/@chookslint/eslint-config)](https://npmjs.com/package/@chookslint/eslint-config)
 [![npm (scoped)](https://img.shields.io/npm/v/@chookslint/eslint-config)](https://npmjs.com/package/@chookslint/eslint-config)
 
